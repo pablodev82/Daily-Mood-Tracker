@@ -1,2 +1,2 @@
 # 🙏😃😎 Daily-Mood-Tracker 😡🤔🙏
-![Image alt] (https://github.com/pablodev82/Daily-Mood-Tracker/blob/0bcdaea7ceafd4463d3ca6d3e5ff2f77dc6a532a/%20Captura.png)
+![MoodTrackerApp Screenshot](https://raw.githubusercontent.com/pablodev82/MoodTrackerApp/b285aada64783c48f5316556f0aa2f502344c757/Captura.png)
