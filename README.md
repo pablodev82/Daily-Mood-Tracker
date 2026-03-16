@@ -1,4 +1,4 @@
 # 🙏😃😎 Daily-Mood-Tracker 😡🤔🙏
 
-<img src="https://raw.githubusercontent.com/pablodev82/MoodTrackerApp/main/Captura.png" width="300" alt="MoodTrackerApp Screenshot">
-![MoodTrackerApp Screenshot](https://raw.githubusercontent.com/pablodev82/MoodTrackerApp/b285aada64783c48f5316556f0aa2f502344c757/Captura.png)
+<img src="https://github.com/pablodev82/Daily-Mood-Tracker/blob/027e8c27fee77b4fe8741a1b1cff40ac659f1df0/%20Captura.png" width="700" alt="MoodTrackerApp Screenshot">
+
